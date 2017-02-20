@@ -2,5 +2,6 @@
 int main()
 {
 printf("hello");
+printf("club gen-y rocks");
 }
 
